@@ -17,11 +17,11 @@
     "url": "https://github.com/carldanley/node-gamepad/issues"
   },
   "engines": {
-    "node": ">= 0.10.28"
+    "node": ">= 12.0"
   },
   "dependencies": {
-    "colors": "^0.6.2",
-    "node-hid": "^0.5.1"
+    "colors": "1.4.0",
+    "node-hid": "2.1.2"
   },
   "files": [
     "controllers",
